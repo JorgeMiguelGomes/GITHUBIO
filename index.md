@@ -1,10 +1,10 @@
 ## Latest Projects
 
-[**Legislativas 2022**](https://jorgemiguelgomes.github.io/Legislativas2022/)
+[**Legislativas 2022**](https://bit.ly/Legislativas2022)
 
 [**Legislativas 2022: Media Monitor**](https://jorgemiguelgomes.github.io/LEG2022_MediaMonitor/)
 
-[**COVID19PT: Weekly Update by County**](https://jorgemiguelgomes.github.io/COVID19PT_DADOSCONCELHO/)
+[**COVID19PT: Weekly Update by County**](https://bit.ly/COVID19PTJG)
 
 
 # About me
