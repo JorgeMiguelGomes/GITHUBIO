@@ -15,6 +15,9 @@ On February 4th 2021, I broke Twitter. This *might* not be the most interesting 
 
 Passioante about open data, open source, civil society empowerment through techology, OSINT, data exploration and visualization. 
 
+*“What whiskey will not cure, there is no cure for.” – Irish proverb*
+
+
 [VOST Portugal](https://twitter.com/vostpt)'s national coordinator
 
 
