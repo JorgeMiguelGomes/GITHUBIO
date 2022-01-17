@@ -4,7 +4,7 @@
 
 [**Legislativas 2022: Media Monitor**](https://jorgemiguelgomes.github.io/LEG2022_MediaMonitor/)
 
-[**COVID19PT: Weekly Update by County**](https://bit.ly/COVID19PTJG)
+[**COVID19PT: Weekly Update by County**](https://bit.ly/COVID19PTDATA)
 
 
 # About me
