@@ -20,6 +20,11 @@ Passioante about open data, open source, civil society empowerment through techo
 
 [VOST Portugal](https://twitter.com/vostpt)'s national coordinator
 
+[VOST Europe](https://vosteurope.org)'s COO
+
+[Social Media-Driven Disaster Risk Management (SMDRM) Task Force](https://publications.jrc.ec.europa.eu/repository/handle/JRC124963)  member
+
+
 
 
 
