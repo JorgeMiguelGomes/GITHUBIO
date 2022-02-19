@@ -1,6 +1,6 @@
 ## Latest Projects
 
-[**And Now For Something Completely Different](https://jorgemiguelgomes.github.io/anfscd/)
+[**And Now For Something Completely Different**](https://jorgemiguelgomes.github.io/anfscd/)
 
 [**Legislativas 2022**](https://bit.ly/Legislativas2022)
 
